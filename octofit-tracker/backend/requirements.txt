@@ -1,0 +1,4 @@
+# OctoFit Tracker Backend Requirements
+
+django
+djangorestframework
